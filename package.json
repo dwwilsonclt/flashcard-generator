@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "WK11",
+  "main": "CLIBasic.js or CLICloze.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwwilsonclt/flashcard-generator.git"
+  },
+  "author": "Davis Software - A Web Development Company, LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwwilsonclt/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/dwwilsonclt/flashcard-generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
